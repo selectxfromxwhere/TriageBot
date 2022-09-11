@@ -1,6 +1,3 @@
-#Jessica Borsellino
-#Final project for Sophia's Introduction to Programming with Python
-
 #Title : TriageBot
 #This is a program which will triage patients based on severity of their illness
 #In the Emergency Room, the concept of triage is to quickly assess a patient
