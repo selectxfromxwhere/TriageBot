@@ -48,7 +48,7 @@ def stable():
     print('You are medically stable. Please have a seat in the lobby until we have a room for you. ')
 
 def unstable():
-    print('You are not medically stable. Please follow me to a patient room immediately.')
+    print('You are not medically stable. Please follow me to a patient room immediately.') 
 
 #functions for each choice
 def airway():
