@@ -2,7 +2,7 @@
 This is my original project called TriageBot, built in Python 3
 
 TriageBot is intended to mimic the triage process in an Emergency Room. 
-I was motivated to build this project for a programming course I'm taking while working full time as an ER nurse.
+I was motivated to build this project for a college programming course I'm taking while working full time as an ER nurse.
 This project will be improved upon and new technologies employed as I continue to work through my degree.
 My plan for it is to become a web application complete with a GUI.
 
